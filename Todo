@@ -1,0 +1,7 @@
+todo:
+1. integrate a memory bank (not rooflow)
+
+2. create an existing project indexer, a specific mode that 
+with or without external tools indexes and 
+stores key information about an existing project
+into the memory of this Symphony
